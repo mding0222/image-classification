@@ -74,14 +74,3 @@ The project demonstrates the trade-off between classification accuracy and model
 ## Project Files
 
 - `Image Classification.ipynb` – Main notebook containing data loading, model training, evaluation and comparison
-
-## Future Improvements
-
-Potential improvements include:
-
-- Adding confusion matrix analysis
-- Applying stronger data augmentation
-- Testing EfficientNet or newer lightweight architectures
-- Using learning rate scheduling
-- Fine-tuning more layers of pretrained models
-- Exporting the best model for inference
